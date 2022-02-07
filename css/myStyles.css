@@ -112,6 +112,10 @@ figcaption {
     line-height: 1rem;
 }
 
+p.back-to-top {
+    margin-top: 0;
+}
+
 @media screen and (max-width:665px) {
     .post:nth-child(1) {
         margin-top: 0;
