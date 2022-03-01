@@ -97,6 +97,10 @@ img {
     max-width: 100%;
 }
 
+img.stack {
+    padding-top: 1em;
+}
+
 .post {
     border: 1.5px solid black;
     padding: 40px;
