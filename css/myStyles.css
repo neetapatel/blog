@@ -94,7 +94,7 @@ code {
     font-size: 0.9rem;;
 }
 
-img {
+img, video {
     max-width: 100%;
 }
 
