@@ -135,6 +135,11 @@ p.back-to-top {
     display: inline-block;
 }
 
+.tab {
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
 @media screen and (max-width:665px) {
     .post:last-child {
         margin-bottom: 0;
