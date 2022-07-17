@@ -52,7 +52,7 @@ table {
 html {
     font-size: 16px;
     margin: 20px;
-    background: plum;
+    background: rgb(86, 119, 67);
 }
 
 body {
@@ -103,7 +103,8 @@ img, video {
 }
 
 .post {
-    border: 1.5px solid black;
+    border: 10px solid white;
+    background: rgb(120, 180, 86);
     padding: 40px;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -113,8 +114,12 @@ img, video {
     margin-bottom: 40px;
 }
 
+a, a:visited {
+    color:ghostwhite;
+}
+
 a:hover {
-    color: ghostwhite;
+    color:rgb(86, 119, 67);
 }
 
 figcaption {
@@ -123,6 +128,7 @@ figcaption {
     text-align: center;
     margin-bottom: 30px;
     line-height: 1rem;
+    text-align: left;
 }
 
 p.back-to-top {
