@@ -147,7 +147,7 @@ p.back-to-top {
 }
 
 .screenshot {
-    padding: 0px 22px;
+    padding: 0px 5%;
 }
 
 @media screen and (max-width:665px) {
@@ -160,5 +160,9 @@ p.back-to-top {
     }
     h3 {
         margin-bottom: 20px;
+    }
+
+    .screenshot {
+        padding: 0px 5%;
     }
 }
