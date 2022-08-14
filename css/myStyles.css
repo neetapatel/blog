@@ -150,6 +150,15 @@ p.back-to-top {
     padding: 0px 5%;
 }
 
+.dreadmill {
+    text-align: justify;
+    word-wrap: break-word;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
 @media screen and (max-width:665px) {
     .post:last-child {
         margin-bottom: 0;
