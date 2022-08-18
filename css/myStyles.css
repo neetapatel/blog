@@ -52,7 +52,7 @@ table {
 html {
     font-size: 16px;
     margin: 20px;
-    background: rgb(86, 119, 67);
+    background: whitesmoke;
 }
 
 body {
@@ -103,8 +103,10 @@ img, video {
 }
 
 .post {
-    border: 10px solid white;
-    background: rgb(120, 180, 86);
+    /* border: 10px solid white; */
+    background: linear-gradient(0deg, rgba(56,213,222,1) 0%, rgba(253,214,45,1) 100%);
+    /* opacity: 75%; */
+    box-shadow: 0px 0px 15px 15px whitesmoke inset;
     padding: 40px;
     margin-top: 40px;
     margin-bottom: 40px;
