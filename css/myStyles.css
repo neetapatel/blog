@@ -126,11 +126,11 @@ img, video {
 }
 
 a, a:visited {
-    color:ghostwhite;
+    color:orangered;
 }
 
 a:hover {
-    color:rgb(86, 119, 67);
+    color:blueviolet;
 }
 
 figcaption {
